@@ -1,21 +1,12 @@
 {
-  "name": "passport-oauth2-dotwallet",
-  "version": "1.6.0",
+  "name": "@mainmeta/passport-oauth2-dotwallet",
+  "version": "1.0.0",
   "description": "OAuth 2.0 authentication strategy for DotWallet.",
-  "keywords": [
-    "passport",
-    "auth",
-    "authn",
-    "authentication",
-    "authz",
-    "authorization",
-    "oauth",
-    "oauth2"
-  ],
   "author": {
     "name": "Hank Park",
     "email": "hank.park@mainmeta.com"
   },
+  "main": "./lib",
   "repository": {
     "type": "git",
     "url": "git://github.com/mainmeta-nmg/passport-oauth2-dotwallet.git"
@@ -30,7 +21,7 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "main": "./lib",
+  "homepage": "https://github.com/mainmeta-nmg/passport-oauth2-dotwallet#readme",
   "dependencies": {
     "base64url": "3.x.x",
     "oauth": "0.9.x",
