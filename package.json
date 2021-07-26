@@ -1,6 +1,6 @@
 {
   "name": "@mainmeta/passport-oauth2-dotwallet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OAuth 2.0 authentication strategy for DotWallet.",
   "author": {
     "name": "Hank Park",
